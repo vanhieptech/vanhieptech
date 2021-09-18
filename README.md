@@ -1,6 +1,6 @@
 ### Hi there, I'm Hiep👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hiep_vanile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvanhiep184&screen_name=hiep_vanile)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VH_Nero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvanhiep184&screen_name=VH_Nero)
 
 ### Spotify Playing 🎧
 
@@ -75,7 +75,7 @@
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
 
-[twitter]: https://twitter.com/hiep_vanile
+[twitter]: https://twitter.com/VH_Nero
 [facebook]: https://www.facebook.com/lvhiep297
 [linkedin]: https://www.linkedin.com/in/vanhiep778/
 
