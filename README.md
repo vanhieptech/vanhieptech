@@ -1,5 +1,5 @@
 ### Hi there, I'm Hiep👋
-<a href="https://app.daily.dev/Nero"><img src="https://api.daily.dev/devcards/591fffd0479a4f3fa382dcf727d0f742.png?r=cb7" width="400" alt="Van Hiep's Dev Card"/></a>
+<a href="https://app.daily.dev/Nero"><img src="https://github.com/vanhiep184/vanhiep184/blob/master/devcard.svg" width="400" alt="Van Hiep's Dev Card"/></a>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VH_Nero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvanhiep184&screen_name=VH_Nero)
