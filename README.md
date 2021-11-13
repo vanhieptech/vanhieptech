@@ -1,12 +1,18 @@
 ### Hi there, I'm Hiep👋
 <a href="https://app.daily.dev/Nero"><img src="https://github.com/vanhiep184/vanhiep184/blob/master/devcard.svg" width="400" alt="Van Hiep's Dev Card"/></a>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhiep184&hide=stars&show_icons=true&include_all_commits=true&title_color=D7C256&text_color=D7C256&icon_color=768390&bg_color=22272E&hide_border=true&custom_title=My%20GitHub%20Statistics)](https://github.com/vanhiep184)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhiep184&layout=compact&langs_count=10&title_color=D7C256&text_color=D7C256&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true)](https://github.com/vanhiep184)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com?username=vanhiep184&hide_title=true&color=D7C256&line=D7C256&point=768390&area_color=768390&bg_color=22272E&hide_border=true)](https://github.com/vanhiep184)
+
+[THEME]: &title_color=D7C256&text_color=D7C256&icon_color=768390&bg_color=22272E&hide_border=true
+
+
+
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VH_Nero?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvanhiep184&screen_name=VH_Nero)
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="vanhiep Spotify Playing" width="350" />](https://open.spotify.com/artist/1FhamVtJlNqaekPnwxQpbk)
 
 ### Connect with me:
 
@@ -38,53 +44,8 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanhiep184&show_icons=true&theme=dracula&hide_border=true" />
-
-</details>
-
-<!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
-
+[website]: https://vanhiep.me
 [twitter]: https://twitter.com/VH_Nero
 [facebook]: https://www.facebook.com/lvhiep297
 [linkedin]: https://www.linkedin.com/in/vanhiep778/
-
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
-
-[webdevplaylist]: https://github.com/vanhiep184
-[jsplaylist]: https://github.com/vanhiep184
-[cssplaylist]: https://github.com/vanhiep184
-[reactplaylist]: https://github.com/vanhiep184
