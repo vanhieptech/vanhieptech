@@ -6,6 +6,7 @@
   <td align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhiep184&hide=stars&show_icons=true&include_all_commits=true&title_color=D7C256&text_color=D7C256&icon_color=768390&bg_color=22272E&hide_border=true&custom_title=My%20GitHub%20Statistics)](https://github.com/vanhiep184)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhiep184&layout=compact&langs_count=10&title_color=D7C256&text_color=D7C256&icon_color=768390&bg_color=22272E&hide_border=true&hide_title=true)](https://github.com/vanhiep184)
+    </td>
 <td >
 <a href="https://app.daily.dev/Nero"><img src="https://github.com/vanhiep184/vanhiep184/blob/master/devcard.svg" width="400" alt="Van Hiep's Dev Card"/></a>
   </td>
